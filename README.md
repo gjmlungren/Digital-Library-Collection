@@ -1,7 +1,10 @@
-theme: minima<header>-
+theme: minima
 `_config.yml`
 
-
+Pennsylvania Western University 
+INFO 6310-400 
+Dr. Gueguen 
+12/11/2024
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
