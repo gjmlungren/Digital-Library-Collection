@@ -1,4 +1,6 @@
-theme: minima<header>
+theme: minima<header>-
+`_config.yml`
+
 
 <!--
   <<< Author notes: Course header >>>
